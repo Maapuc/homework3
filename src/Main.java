@@ -83,4 +83,5 @@ public class Main {
         System.out.println("Маша тепрь получает " + kristinaRich + " рублей. Годовой доход вырос на " + kristinaUp + " рублей ");
     }
 
+
 }
